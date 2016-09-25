@@ -1,0 +1,5 @@
+[
+  {"userId": "134256", "currencyFrom": "EUR", "currencyTo": "GBP", "amountSell": 1000, "amountBuy": 747.10, "rate": 0.7471, "timePlaced" : "24-JAN-15 10:27:44", "originatingCountry" : "FR"},
+{"userId": "89461", "currencyFrom": "GBP", "currencyTo": "INR", "amountSell": 3154, "amountBuy": 248.10, "rate": 0.5486, "timePlaced" : "17-MAY-16 10:27:44", "originatingCountry" : "US"},
+{"userId": "76420", "currencyFrom": "INR", "currencyTo": "EUR", "amountSell": 9486, "amountBuy": 364.10, "rate": 0.3548, "timePlaced" : "26-NOV-11 10:27:44", "originatingCountry" : "IN"}
+]
